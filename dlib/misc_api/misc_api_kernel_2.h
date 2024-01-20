@@ -3,9 +3,9 @@
 #ifndef DLIB_MISC_API_KERNEl_2_
 #define DLIB_MISC_API_KERNEl_2_
 
-#ifdef DLIB_ISO_CPP_ONLY
-#error "DLIB_ISO_CPP_ONLY is defined so you can't use this OS dependent code.  Turn DLIB_ISO_CPP_ONLY off if you want to use it."
-#endif
+//#ifdef DLIB_ISO_CPP_ONLY
+//#error "DLIB_ISO_CPP_ONLY is defined so you can't use this OS dependent code.  Turn DLIB_ISO_CPP_ONLY off if you want to use it."
+//#endif
 
 
 #include "misc_api_kernel_abstract.h"
